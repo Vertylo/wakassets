@@ -1,0 +1,2 @@
+# wakassets
+Assets - Wakfu
