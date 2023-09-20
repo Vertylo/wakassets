@@ -1,0 +1,1109 @@
+[
+	{
+		"level": 5,
+		"title": {
+			"fr": "Donjon d'Incarnam",
+			"en": "Incarnam Dungeon",
+			"es": "Mazmorra de Incarnam",
+			"pt": "Calabouço de Incarnam"
+		}
+	},
+	{
+		"level": 20,
+		"title": {
+			"fr": "Chez la Mère Michou",
+			"en": "Grandmeow's House",
+			"es": "Casa de la Miaubuelita",
+			"pt": "Casa da Miauvó"
+		}
+	},
+	{
+		"level": 20,
+		"title": {
+			"fr": "Pâturages des Bouftous",
+			"en": "Gobball Pastures",
+			"es": "Pastos de los Jalatós",
+			"pt": "Pastagens dos Papatudos"
+		}
+	},
+	{
+		"level": 20,
+		"title": {
+			"fr": "Le Tofulailler",
+			"en": "The Tofuhouse",
+			"es": "Tofullero",
+			"pt": "O Tofuleiro"
+		}
+	},
+	{
+		"level": 20,
+		"title": {
+			"fr": "Larventura",
+			"en": "Larventura",
+			"es": "Larventura",
+			"pt": "Larventura"
+		}
+	},
+	{
+		"level": 35,
+		"title": {
+			"fr": "Donjon des Abraknes",
+			"en": "Treechnee Dungeon",
+			"es": "Mazmorra Abrakna",
+			"pt": "Calabouço dos Arvraknes"
+		}
+	},
+	{
+		"level": 35,
+		"title": {
+			"fr": "Le Caveau Relevé",
+			"en": "The Raised Vault",
+			"es": "Panteón Viviente",
+			"pt": "Tumba Levanta-Defunto"
+		}
+	},
+	{
+		"level": 35,
+		"title": {
+			"fr": "Piou Lahoupe",
+			"en": "Hoola Hoopiwi",
+			"es": "Pío Lajop",
+			"pt": "Piuibolê"
+		}
+	},
+	{
+		"level": 35,
+		"title": {
+			"fr": "Brèche Dimensionnelle de Tainéla",
+			"en": "Tainela Dimensional Rift",
+			"es": "Brecha Dimensional de Tainela",
+			"pt": "Falha Dimensional de Tainela"
+		}
+	},
+	{
+		"level": 50,
+		"title": {
+			"fr": "Le Papaturage Royal",
+			"en": "The Royal Pasturizer",
+			"es": "Pasto Real",
+			"pt": "Pasteurizador Real"
+		}
+	},
+	{
+		"level": 50,
+		"title": {
+			"fr": "La Montagne Adezieu",
+			"en": "The Hill Hazize",
+			"es": "Montaña Conohos",
+			"pt": "Montanha Tenholios"
+		}
+	},
+	{
+		"level": 50,
+		"title": {
+			"fr": "Les Champs Pourchan",
+			"en": "Sureberry Fields",
+			"es": "Campos Hupremos",
+			"pt": "Campos Frutocerto"
+		}
+	},
+	{
+		"level": 50,
+		"title": {
+			"fr": "La Tour Minérale",
+			"en": "The Mineral Tower",
+			"es": "La Torre Mineral",
+			"pt": "Torre Mineral"
+		}
+	},
+	{
+		"level": 50,
+		"title": {
+			"fr": "Donjon équipage du Poulpe",
+			"en": "Octopus Crew Dungeon",
+			"es": "Mamorra Tripulación del Pulpo",
+			"pt": "Calabouço Tripulação do Polvo"
+		}
+	},
+	{
+		"level": 50,
+		"title": {
+			"fr": "Donjon Mort-Brûlés",
+			"en": "Deathburn Dungeon",
+			"es": "Mazmorra Fallecinerados",
+			"pt": "Calabouço dos Mortos-Queimados"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "L'Antre Oubliée",
+			"en": "The Forgotten Lair",
+			"es": "Antro Olvidado",
+			"pt": "Antro Esquecido"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Donjon Bwork",
+			"en": "Bwork Dungeon",
+			"es": "Trinchera de Huelguerreros",
+			"pt": "Calabouço Bwork"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "La Skouale Sèche",
+			"en": "Dry Selachii",
+			"es": "Dique Eskuálido",
+			"pt": "Tchubarco"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Donjon Mollusky",
+			"en": "Mollusky Dungeon",
+			"es": "Mazmorra Kaskarlusca",
+			"pt": "Calabouço do Molusky"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Tour des Miss Moches",
+			"en": "Miss Ugly Tower",
+			"es": "Torre de las Miss Adefesio",
+			"pt": "Torre das Miss Feias"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Kokokolantha",
+			"en": "Kokokobana",
+			"es": "Kokolost Island",
+			"pt": "Kokokobana"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Château des Cwabes",
+			"en": "Cwab's Castle",
+			"es": "Castillo de Los Cangwejos",
+			"pt": "Castelo dos Cawanguejos"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Donjon Marteaux-Aigris",
+			"en": "Bitter-Hammer Dungeon",
+			"es": "Mazmorra Martilloseco",
+			"pt": "Calabouço dos Martelos Amargos"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Les Ratacombes",
+			"en": "The Ratatombs",
+			"es": "Ratacumbas",
+			"pt": "As Ratatumbas"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Antre d'Excarnus",
+			"en": "Excarnus's Lair",
+			"es": "Antro de Excarnus",
+			"pt": "Antro do Excarnus"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Temple du Grand Orrok",
+			"en": "Temple of the Grand Orrok",
+			"es": "Templo del Gran Orrok",
+			"pt": "Templo do Grande Orrok"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "La Corbeau-Cave",
+			"en": "Cro-Cave",
+			"es": "Cuerbokueva",
+			"pt": "Corvocaverna"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Truchière Abandonnée",
+			"en": "Abandoned Strichery",
+			"es": "Pestrucería Abandonada",
+			"pt": "Truzeria Abandonada"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Domaine du Petit Groin",
+			"en": "Boarthroom Estate",
+			"es": "Hacienda de la Balinería",
+			"pt": "Domíno do Javaleiro"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Palais du Tsu",
+			"en": "Tsu's Palace",
+			"es": "Palacio de Tsu",
+			"pt": "Palácio de Csé"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Autel de la Lune",
+			"en": "Lunar Altar",
+			"es": "Altar de la Luna",
+			"pt": "Altar Lunar"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Donjon Arakne",
+			"en": "Arachnee Dungeon",
+			"es": "Mazmorra Arakna",
+			"pt": "Calabouço Arakne"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Brèche Dimensionnelle de Sufokia",
+			"en": "Sufokia Dimensional Rift",
+			"es": "Brecha Dimensional de Sufokia",
+			"pt": "Falha Dimensional de Sufokia"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Sliptorium",
+			"en": "The Undieworld",
+			"es": "Sliptorium",
+			"pt": "Sliptorium"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Le Misolée",
+			"en": "Miseryum",
+			"es": "Miasmausoleo",
+			"pt": "O Mausaoléu"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Château de Wagnar",
+			"en": "Wagnar's Castle",
+			"es": "Castillo de Wagnar",
+			"pt": "Castelo de Wagnar"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Académie Trool",
+			"en": "Trool Academy",
+			"es": "Factor Trool",
+			"pt": "Academia Trool"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Le Hammamamoule",
+			"en": "Mussly Hammam",
+			"es": "El Hammalmejil",
+			"pt": "O Hammamexilhão"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Caverne des Slekymoses",
+			"en": "Schnekymosis Cavern",
+			"es": "Cavernia Brizlónica",
+			"pt": "Caverna das Vermugas"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Scarrière Abandonnée",
+			"en": "Abandoned Scarapit",
+			"es": "Escarantera Abandonada",
+			"pt": "Scaranteira Abandonada"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Nécropoil de Morbax",
+			"en": "Morbax Neplopolis",
+			"es": "Necrópelis de Morbax",
+			"pt": "Necrópelos de Morbax"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Antre du Meulou",
+			"en": "Moowolf's Lair",
+			"es": "Antro de Maxilubo",
+			"pt": "Antro do Mulobo"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Repaire des Super-Vilains",
+			"en": "Supervillains' Lair",
+			"es": "Guarida de los Supervillanos",
+			"pt": "Covil dos Supervilöes"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "L'Arène Dansante",
+			"en": "Dancehall Arena",
+			"es": "Arena Danzante",
+			"pt": "A Arena Dançante"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Les Glaglacier Cornu",
+			"en": "The Horned Glacier",
+			"es": "Glaciar Cornudo",
+			"pt": "Geleira Cornuda"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Niche du Yech'tiWawa",
+			"en": "The Yech'Ti'Wawa's Kennel",
+			"es": "Caseta del Yech'Ti'Wawa",
+			"pt": "Canil do Yech'Ti'Wawa"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Donjon Gelée",
+			"en": "Jelly Dungeon",
+			"es": "Mazmorra Gelatinada",
+			"pt": "Calabouço de Gelatina"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Antre du Corbeau Noir",
+			"en": "The Black Crow's Lair",
+			"es": "Antro del Cuervo Negro",
+			"pt": "Antro do Corvo Negro"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Repaire des Magik Riktus",
+			"en": "Magik Riktus Den",
+			"es": "Guarida de los Magik Riktus",
+			"pt": "Covil dos Riktus Màgikus"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Antre du Boufrog",
+			"en": "The Gobbalrog's Lair",
+			"es": "Antro de Jálrog",
+			"pt": "Antro do Paparog"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Chuchobase",
+			"en": "Hushquarters",
+			"es": "Base de Susurro",
+			"pt": "Sussubase"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Antre du Dragon-Cochon",
+			"en": "Dragon Pig's Den",
+			"es": "Antro del Dragocerdo",
+			"pt": "Antro do Dragão-Porco"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Le Pot d'Hagën-Glass",
+			"en": "Hagen Daz's Pot",
+			"es": "Cono de Crújian Jerry",
+			"pt": "Pote de Quibom"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Aile de l'Ambassadrice",
+			"en": "Ambassador's Wing",
+			"es": "Ala de la Embajadora",
+			"pt": "Ala da Embaixatriz"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "La Tour Gelée",
+			"en": "The Frozen Tower",
+			"es": "Torre Helada",
+			"pt": "A Torre Congelada"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Donjon Cacterre",
+			"en": "Castuc Dungeon",
+			"es": "Meseta Pikapik",
+			"pt": "Calabouço Cacterra"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Fosse du Tourmenteur",
+			"en": "Tormentor Pit",
+			"es": "Fosa del Atormentador",
+			"pt": "Fossa do Atormentador"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Caverne Smarrante",
+			"en": "The Whirlway Station",
+			"es": "Cavernia Samaraciosa",
+			"pt": "Caverna Turbilária"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Donjon Flaqueux",
+			"en": "Puddly Dungeon",
+			"es": "Mazmorra del Charcoso Real",
+			"pt": "Calabouço Charcoso"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "La Pichine",
+			"en": "The Snaptrap",
+			"es": "La Pischina",
+			"pt": "Pichina"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Brèche Dimensionnelle de Frigost",
+			"en": "Frigost Dimensional Rift",
+			"es": "Brecha Dimensional de Frigost",
+			"pt": "Falha Dimensional de Frigost"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Brèche Dimensionnelle d'Amakna",
+			"en": "Amakna Dimensional Rift",
+			"es": "Brecha Dimensional de Amakna",
+			"pt": "Falha Dimensional de Amakna"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Temple de l'Empeleul Lenald",
+			"en": "Lenald Empelol's Temple",
+			"es": "Templo del Empeladol Zollo",
+			"pt": "Templo do Laposa Impeladol"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Donjon Black Wabbit",
+			"en": "Black Wabbit Dungeon",
+			"es": "Mazmorra de los Black Wabbits",
+			"pt": "Calabouço do Black Wabbit"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Donjon Wabbit",
+			"en": "Wabbit Dungeon",
+			"es": "Mazmorra de los Wabbits",
+			"pt": "Calabouço Wabbit"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Sanctuaire de Mihmol",
+			"en": "Flaxhid's Sanctuary",
+			"es": "Santuario de Mihmol",
+			"pt": "Santuário de Meyduro"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Donjon Noirespore",
+			"en": "Blackspore Dungeon",
+			"es": "Mazmorra Negraspora",
+			"pt": "Calabouço Negresporo"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Domaine de la Trouffe Salée",
+			"en": "Dirty Trouffe Estate",
+			"es": "Hacienda de la Topera Oculta",
+			"pt": "Domínio da Perfuratrocidade"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Donjon Abraknyde",
+			"en": "Treechnid Dungeon",
+			"es": "Mazmorra Abráknida",
+			"pt": "Calabouço Arvraknídeo"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Le Vignoble Ignoble",
+			"en": "The Villainy Vineyards",
+			"es": "Vid Vil",
+			"pt": "Vinhedo Azedo"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Château du Wa Wabbit",
+			"en": "Wa Wabbit's Castle",
+			"es": "Castillo del Wey Wabbit",
+			"pt": "Castelo do Wei Wabbit"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Wasewve de Cavottes Abandonnée",
+			"en": "Abandoned Cawwot Stowewoom",
+			"es": "Wesewva de Zanahowias Abandonada",
+			"pt": "Despensa de Cenouwa Abandonada"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Donjon Srambad",
+			"en": "Srambad Dungeon",
+			"es": "Mazmorra Sramvil",
+			"pt": "Calabouço Sramvil"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Donjon Enutrosor",
+			"en": "Enurado Dungeon",
+			"es": "Mazmorra de Anutropía",
+			"pt": "Calabouço Enutropia"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Blopéra",
+			"en": "Blopera",
+			"es": "Blópera",
+			"pt": "Blópera"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Source du Mal",
+			"en": "Wellspring of Evil",
+			"es": "Fuente del Mal",
+			"pt": "Origem do Mal"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Brèche Dimensionnelle de Bonta",
+			"en": "Bonta Dimensional Rift",
+			"es": "Brecha Dimensional de Bonta",
+			"pt": "Falha Dimensional de Bonta"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Fabrique Méka",
+			"en": "Mecha Factory",
+			"es": "Mekafábrica",
+			"pt": "Fábrica Meka"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Donjon E-Bou",
+			"en": "Ow El Dungeon",
+			"es": "Mazmorra iBúho",
+			"pt": "Calabouço E-Strigide"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Plateau des Haut-Vents",
+			"en": "High Wind Plateau",
+			"es": "Meseta de los Altos Vuelos",
+			"pt": "Planalto dos Altos Ventos"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Repaire de Kali",
+			"en": "Kali's Lair",
+			"es": "Guarida de Kali",
+			"pt": "Covil de Kali"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Donjon Riktus Elite",
+			"en": "Elite Riktus Dungeon",
+			"es": "Mazmorra Riktus de Élite",
+			"pt": "Calabouço Riktus de Elite"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Roub'Bar",
+			"en": "Bistrogue",
+			"es": "Tymabar",
+			"pt": "Ladinobar"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Le Lampionaute",
+			"en": "The Zeppelantern",
+			"es": "Astrolillo",
+			"pt": "Zepelanterna"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "La Patapoutrerie",
+			"en": "The Stalagmotel",
+			"es": "Patapinxería",
+			"pt": "O Estalagmotel"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Cime du Grand Totem",
+			"en": "Top of Giant Totem",
+			"es": "Cima del Gran Tótem",
+			"pt": "Cume do Grande Totem"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Donjon des Crocodailles",
+			"en": "Crocodyl Dungeon",
+			"es": "Mazmorra de los Cocodrails Delnilo",
+			"pt": "Calabouço dos Crocodyls"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Donjon des Kannivores",
+			"en": "Kannivore Dungeon",
+			"es": "Mazmorra de las Kanívoras",
+			"pt": "Calabouço dos Kanívoros"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Donjon des Kannibouls",
+			"en": "Kanniball Dungeon",
+			"es": "Mazmorra Kaníbola",
+			"pt": "Calabouço dos Kanibolas"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Donjon des Tropikes",
+			"en": "Tropickle Dungeon",
+			"es": "Mazmorra de los Trópipikos",
+			"pt": "Calabouço dos Trópikos"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Cité Interdite",
+			"en": "Forbidden City",
+			"es": "Ciudad Prohibida",
+			"pt": "Cidade Proibida"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Donjon Gerbouille",
+			"en": "Gerbean Dungeon",
+			"es": "Mazmorra Gerbilinda",
+			"pt": "Calabouço Gerbela"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Brèche Dimensionnelle de Moon",
+			"en": "Moon Dimensional Rift",
+			"es": "Brecha Dimensional de Moon",
+			"pt": "Dalha Dimensional de Moon"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Antre de Nogord l'Ezarélé",
+			"en": "Nogord Wungleezared's Lair",
+			"es": "Antro de Nogord, el Alado",
+			"pt": "Antro de Nogord, o Lagartalado"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Tanière des Blérox",
+			"en": "Badgeroxes' Lair",
+			"es": "Guarida de los Tejaroxores",
+			"pt": "Toca dos Texox"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Volcan Or'Hodruin",
+			"en": "Or'Hodruin Volcano",
+			"es": "Volcán Or'Hodruin",
+			"pt": "Vulcão Or'Hodruin"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Pointe du Mont Zinit",
+			"en": "Mount Zinit Peak",
+			"es": "Pico del Monte Zinit",
+			"pt": "Ponta do Monte Zinit"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Sanctuaire des Dragoeufs",
+			"en": "Dreggons' Sanctuary",
+			"es": "Santuario de los Dragohuevos",
+			"pt": "Santuário dos Dragovos"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "La Crête Givrée",
+			"en": "Iced-Over Crest",
+			"es": "Cresta Helada",
+			"pt": "Crista Congelada"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "La Tour Minérale",
+			"en": "The Minerall Tower",
+			"es": "La Torre Mineral",
+			"pt": "Torre Mineral"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Tombeau de Pandala",
+			"en": "Pandala Tomb",
+			"es": "Tumba de Pandala",
+			"pt": "Tumba de Pandala"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Canyon des Fléopards",
+			"en": "Blightopard Canyon",
+			"es": "Cañón de los Plaguepardos",
+			"pt": "Cânion dos Flagelopardos"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Usine Hibourg",
+			"en": "Bubourg Factory",
+			"es": "Fábrica Buhatrás",
+			"pt": "Fábrica Strigifrent"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Dimension-Objet d'Ombrage",
+			"en": "Shadofang Item Dimension",
+			"es": "Dimensión-Objecto de Sombría",
+			"pt": "Dimensão-Objeto de Presanegra"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "La Tour Minérale",
+			"en": "The Mineral Tower",
+			"es": "Torre Mineral",
+			"pt": "Torre Mineral"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Donjon Toundrasoirs",
+			"en": "Tundrazor Dungeon",
+			"es": "Mazmorra Nievajas",
+			"pt": "Calabouço dos Tundrafiados"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Donjon Crustrargneux",
+			"en": "Crabstacean Dungeon",
+			"es": "Mazmorra Crustariscos",
+			"pt": "Calabouço dos Crustacirrados"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Donjon Cagnardeurs",
+			"en": "Sunsloth Dungeon",
+			"es": "Mazmorra Solgazanes",
+			"pt": "Calabouço dos Estorritardos"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Donjon Vandaliénés",
+			"en": "Vandalophrenic Dungeon",
+			"es": "Mazmorra Vandalienados",
+			"pt": "Calabouço dos Vandalienados"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Donjon Plantigardes",
+			"en": "Plantiguard Dungeon",
+			"es": "Mazmorra de los Plantiguardias",
+			"pt": "Calabouço dos Plantíguardas"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Donjon Mansots",
+			"en": "Pingwin Dungeon",
+			"es": "Mazmorra de los Güinos",
+			"pt": "Calabouço dos Pingwins"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Donjon Carapattes",
+			"en": "Scramshell Dungeon",
+			"es": "Mazmorra de los Escapatarazones",
+			"pt": "Calabouço dos Carapatas"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Brèche Dimensionnelle du Mont Zinit",
+			"en": "Mount Zinit Dimensional Rift",
+			"es": "Brecha Dimensional del Monte Zinit",
+			"pt": "Falha Dimensional do Monte Zinit"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Brèche Dimensionnelle d'Osamosa",
+			"en": "Osamosa Dimensional Rift",
+			"es": "Brecha Dimensional de Osamosa",
+			"pt": "Falha Dimensional de Osamosa"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Donjon Phytomorphes",
+			"en": "Phytomorph Dungeon",
+			"es": "Mazmorra de los Fitoformes",
+			"pt": "Calabouço dos Fitomorfos"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Donjon Vidéants",
+			"en": "Voidivion Dungeon",
+			"es": "Mazmorra de los Vaciantes",
+			"pt": "Calabouço dos Vaziantes"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Donjon Démhorribles",
+			"en": "Horridemon Dungeon",
+			"es": "Mazmorra de los Demorribles",
+			"pt": "Calabouço dos Demhorríveis"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Donjon Égarés ?",
+			"en": "Streye Dungeon?",
+			"es": "Mazmorra de los Idos",
+			"pt": "Calabouço dos Perdidos"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Donjon Ravageurs",
+			"en": "Destroyer Dungeon",
+			"es": "Mazmorra de los Devastadores",
+			"pt": "Calabouço dos Devastadores"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Palais de Rushu",
+			"en": "Rushu's Palace",
+			"es": "Palacio de Rushu",
+			"pt": "Palácio de Rushu"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Brèche Dimensionnelle de la Shukrute",
+			"en": "Shustuft Crust Dimensional Rift",
+			"es": "Brecha Dimensional de la Fab'hugrata",
+			"pt": "Falha Dimensional da Shukrute"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Donjon Steamers",
+			"en": "Foggernaut Dungeon",
+			"es": "Mazmorra Steamers",
+			"pt": "Calabouço dos Steamers"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Donjon Poisseux Abyssaux",
+			"en": "Abyssal Creeper Dungeon",
+			"es": "Mazmorra Pezgajosos Abisales",
+			"pt": "Calabouço dos Pescajosos Abissais"
+		}
+	}
+]

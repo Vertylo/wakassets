@@ -1,0 +1,884 @@
+[
+	{
+		"level": 5,
+		"title": {
+			"fr": "Embryâmes",
+			"en": "Embrysouls",
+			"es": "Embrialmas",
+			"pt": "Embrialmas"
+		}
+	},
+	{
+		"level": 20,
+		"title": {
+			"fr": "Chachas",
+			"en": "Bow Meows",
+			"es": "Miaumiaus",
+			"pt": "Miaws"
+		}
+	},
+	{
+		"level": 20,
+		"title": {
+			"fr": "Bouftous",
+			"en": "Gobballs",
+			"es": "Jalatós",
+			"pt": "Papatudos"
+		}
+	},
+	{
+		"level": 20,
+		"title": {
+			"fr": "Tofus",
+			"en": "Tofus",
+			"es": "Tofus",
+			"pt": "Tofus"
+		}
+	},
+	{
+		"level": 20,
+		"title": {
+			"fr": "Larves",
+			"en": "Larvae",
+			"es": "Larvas",
+			"pt": "Larvas"
+		}
+	},
+	{
+		"level": 35,
+		"title": {
+			"fr": "Abraknes",
+			"en": "Treechnees",
+			"es": "Abraknos",
+			"pt": "Arvraknes"
+		}
+	},
+	{
+		"level": 35,
+		"title": {
+			"fr": "Squelettes",
+			"en": "Skeletons",
+			"es": "Esqueletos",
+			"pt": "Esqueletos"
+		}
+	},
+	{
+		"level": 35,
+		"title": {
+			"fr": "Pious",
+			"en": "Piwis",
+			"es": "Píos",
+			"pt": "Pius"
+		}
+	},
+	{
+		"level": 50,
+		"title": {
+			"fr": "Moogrr",
+			"en": "Moogrr",
+			"es": "Muuugresa",
+			"pt": "Mugrr"
+		}
+	},
+	{
+		"level": 50,
+		"title": {
+			"fr": "Craqueleurs",
+			"en": "Cracklers",
+			"es": "Crujidores",
+			"pt": "Smagadores"
+		}
+	},
+	{
+		"level": 50,
+		"title": {
+			"fr": "Plantes des Champs",
+			"en": "Field Plants",
+			"es": "Plantas de los campos",
+			"pt": "Plantas dos Campos"
+		}
+	},
+	{
+		"level": 50,
+		"title": {
+			"fr": "Équipage du poulpe",
+			"en": "Octopus Crew",
+			"es": "Tripulación del Pulpo",
+			"pt": "Tripulação do Polvo"
+		}
+	},
+	{
+		"level": 50,
+		"title": {
+			"fr": "Morts-brûlés",
+			"en": "Deathburns",
+			"es": "Fallecinerados",
+			"pt": "Mortos-Queimados"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Bouftous sauvages",
+			"en": "Wild Gobballs",
+			"es": "Jalatós salvajes",
+			"pt": "Papatudos selvagens"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Bworks",
+			"en": "Bworks",
+			"es": "Bworks",
+			"pt": "Bworks"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Skouales",
+			"en": "Selachiis",
+			"es": "Eskualo",
+			"pt": "Tchubarão"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Mollusky",
+			"en": "Mollusky",
+			"es": "Moluski",
+			"pt": "Molusky"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Kokokos",
+			"en": "Kokokos",
+			"es": "Kokokos",
+			"pt": "Kokokos"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Cwabes",
+			"en": "Cwabs",
+			"es": "Cangwejos",
+			"pt": "Cawanguejos"
+		}
+	},
+	{
+		"level": 65,
+		"title": {
+			"fr": "Marteaux-Aigris",
+			"en": "Bitter-Hammers",
+			"es": "Martilloseco",
+			"pt": "Martelos Amargos"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Rats",
+			"en": "Rats",
+			"es": "Ratas",
+			"pt": "Ratos"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Kroapule",
+			"en": "Raskaw",
+			"es": "Grápula",
+			"pt": "Krápula"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Corbacs",
+			"en": "Crobaks",
+			"es": "Cuerboks",
+			"pt": "Corvocs"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Truches",
+			"en": "Striches",
+			"es": "Pestruces",
+			"pt": "Truzes"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Gligli",
+			"en": "Blibli",
+			"es": "Balí",
+			"pt": "Valili"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Booskitos",
+			"en": "Mushdskitos",
+			"es": "Booskitos",
+			"pt": "Bawoskitos"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Mulou",
+			"en": "Boowolf",
+			"es": "Mediulubo",
+			"pt": "Milobo"
+		}
+	},
+	{
+		"level": 80,
+		"title": {
+			"fr": "Arakne",
+			"en": "Arachnee",
+			"es": "Arakna ",
+			"pt": "Arakne"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Moines",
+			"en": "Monks",
+			"es": "Monjes",
+			"pt": "Abades"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Croques-Miteux",
+			"en": "Zoogeymen",
+			"es": "Zombizarros",
+			"pt": "Zumbizarros"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Goules",
+			"en": "Ghouls",
+			"es": "Ghuls",
+			"pt": "Carniçais"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Trool",
+			"en": "Trool",
+			"es": "Trool",
+			"pt": "Trool"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Ver Moulé",
+			"en": "Sludgeworm",
+			"es": "Gusano Cherniego",
+			"pt": "Vermelodo"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Slek",
+			"en": "Schnek",
+			"es": "Brizlón",
+			"pt": "Vermudo"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Scaras",
+			"en": "Scaras",
+			"es": "Escaras",
+			"pt": "Scaras"
+		}
+	},
+	{
+		"level": 95,
+		"title": {
+			"fr": "Chafers",
+			"en": "Chafers",
+			"es": "Chafers",
+			"pt": "Chaferes"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Bilbyboys",
+			"en": "Bilbiboyz",
+			"es": "Bilbyboyz",
+			"pt": "Bilbyboys"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Glaglas",
+			"en": "Brrrblis",
+			"es": "Glalíes",
+			"pt": "Estalaktites"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Mulmouth",
+			"en": "Boohemoth",
+			"es": "Mimut",
+			"pt": "Mimute"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Gelées",
+			"en": "Jellies",
+			"es": "Gelatinas",
+			"pt": "Gelatinas"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Riktus",
+			"en": "Riktus",
+			"es": "Riktus",
+			"pt": "Riktus"
+		}
+	},
+	{
+		"level": 110,
+		"title": {
+			"fr": "Chuchoteurs",
+			"en": "Whisperers",
+			"es": "Susurradores",
+			"pt": "Sussurradores"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Craqueleurs Polaires",
+			"en": "Polar Cracklers",
+			"es": "Crujidores polares",
+			"pt": "Smagadores Polares"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Chafers du Nord",
+			"en": "Northern Chafers",
+			"es": "Chafers norteños",
+			"pt": "Chaferes do Norte"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Mékas",
+			"en": "Mechas",
+			"es": "Mekas",
+			"pt": "Mekas"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Cacterre",
+			"en": "Castuc",
+			"es": "Cacterro",
+			"pt": "Cacterra"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Shushus",
+			"en": "Shushus",
+			"es": "Fab'huritus",
+			"pt": "Shushus"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Smare",
+			"en": "Whirly",
+			"es": "Sámara",
+			"pt": "Turbilhento"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Flaqueux",
+			"en": "Puddly",
+			"es": "Charcosos",
+			"pt": "Charcosos"
+		}
+	},
+	{
+		"level": 125,
+		"title": {
+			"fr": "Pichons",
+			"en": "Snappers",
+			"es": "Pischis",
+			"pt": "Pesks"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Lenald",
+			"en": "Lenald",
+			"es": "Zollo",
+			"pt": "Laposa"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Black Wabbit",
+			"en": "Black Wabbit",
+			"es": "Black Wabbit",
+			"pt": "Black Wabbit"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Wabbit",
+			"en": "Wabbit",
+			"es": "Wabbit",
+			"pt": "Wabbit"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Shushus",
+			"en": "Shushus",
+			"es": "Fab'huritus",
+			"pt": "Shushus"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Noirespore",
+			"en": "Blackspore",
+			"es": "Negraspora",
+			"pt": "Negresporo"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Phorreur",
+			"en": "Drheller",
+			"es": "Perforatroz",
+			"pt": "Perfuratroz"
+		}
+	},
+	{
+		"level": 140,
+		"title": {
+			"fr": "Abraknydes Sombres",
+			"en": "Dark Treechnids",
+			"es": "Abráknidos Oscuros",
+			"pt": "Arvraknídeos Sombrios"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Viticultistes",
+			"en": "Viticultists",
+			"es": "Viticultistas",
+			"pt": "Viticultistas"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Wabbit",
+			"en": "Wabbit",
+			"es": "Wabbit",
+			"pt": "Wabbit"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Zwombbit",
+			"en": "Zwombbit",
+			"es": "Zombbit",
+			"pt": "Zwombbit"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Srambadiens",
+			"en": "Srambadians",
+			"es": "Sramvillanos",
+			"pt": "Sramvilienses"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Enutrésors",
+			"en": "Enutreasures",
+			"es": "Divinutrofs",
+			"pt": "Enutresouros"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Blops Musicaux",
+			"en": "Musical Blops",
+			"es": "Blops musicales",
+			"pt": "Blops Musicais"
+		}
+	},
+	{
+		"level": 155,
+		"title": {
+			"fr": "Plantala",
+			"en": "Plantala",
+			"es": "Plantala",
+			"pt": "Plantala"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Xélots",
+			"en": "Xelots",
+			"es": "Xelots",
+			"pt": "Xelots"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Hulors",
+			"en": "Hulors",
+			"es": "Bulots",
+			"pt": "Hulors"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Sbire de Kali",
+			"en": "Kali's Henchman",
+			"es": "Esbirro de Kali",
+			"pt": "Capanga de Kali"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Riktus Elite",
+			"en": "Elite Riktus",
+			"es": "Riktus de Élite",
+			"pt": "Riktus de Elite"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Roublards",
+			"en": "Rogues",
+			"es": "Tymadores",
+			"pt": "Ladinos"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Encapuchonnés",
+			"en": "Hoodlums",
+			"es": "Encapuchados",
+			"pt": "Encapuzados"
+		}
+	},
+	{
+		"level": 170,
+		"title": {
+			"fr": "Patapoutres",
+			"en": "Stalagmotes",
+			"es": "Patapinxos",
+			"pt": "Estalagmoves"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Crocodaille",
+			"en": "Crocodyl",
+			"es": "Cocodrail",
+			"pt": "Crocodyl"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Kannivore",
+			"en": "Kannivore",
+			"es": "Kanívora",
+			"pt": "Kanívoro"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Kanniboul",
+			"en": "Kanniball",
+			"es": "Kaníbola",
+			"pt": "Kanibola"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Tropikoko",
+			"en": "Tropikoko",
+			"es": "Tropikoko",
+			"pt": "Tropikoko"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Pandissidan",
+			"en": "Pandissident",
+			"es": "Pandisidente",
+			"pt": "Pandissidente"
+		}
+	},
+	{
+		"level": 185,
+		"title": {
+			"fr": "Gerbouille",
+			"en": "Gerbean",
+			"es": "Gerbilinda",
+			"pt": "Gerbela"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Blérox",
+			"en": "Badgerox",
+			"es": "Tejaroxor",
+			"pt": "Texox"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Magmas du Dor'Mor",
+			"en": "Magmas of Dor'Mor",
+			"es": "Magmá de Dor'Mor",
+			"pt": "Magmá do Dor'Mor"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Dragoeuf",
+			"en": "Dreggon",
+			"es": "Dragohuevo",
+			"pt": "Dragovo"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Ethernelle",
+			"en": "Ethernal",
+			"es": "Éterna",
+			"pt": "Éter-Na"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Fantôme de Pandala",
+			"en": "Pandala Ghost",
+			"es": "Fantasma de Pandala",
+			"pt": "Fantasma de Pandala"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Fléopard",
+			"en": "Blightopard",
+			"es": "Plaguepardo",
+			"pt": "Flagelopardo"
+		}
+	},
+	{
+		"level": 200,
+		"title": {
+			"fr": "Hibourg",
+			"en": "Bubourg",
+			"es": "Buhatrás",
+			"pt": "Strigifrent"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Toundrasoir",
+			"en": "Tundrazor",
+			"es": "Nievaja",
+			"pt": "Tundrafiado"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Crustrargneux",
+			"en": "Crabstacean",
+			"es": "Crustarisco",
+			"pt": "Crustacirrado"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Cagnardeur",
+			"en": "Sunsloth",
+			"es": "Solgazán",
+			"pt": "Estorritardo"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Vandaliéné",
+			"en": "Vandalophrenic",
+			"es": "Vandalienado",
+			"pt": "Vandalienado"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Plantigardes",
+			"en": "Plantiguards",
+			"es": "Plantiguardias",
+			"pt": "Plantíguardas"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Mansots",
+			"en": "Pingwins",
+			"es": "Güinos",
+			"pt": "Pingwins"
+		}
+	},
+	{
+		"level": 215,
+		"title": {
+			"fr": "Carapattes",
+			"en": "Scramshells",
+			"es": "Escapatarazones",
+			"pt": "Carapatas"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Phytomorphes",
+			"en": "Phytomorphs",
+			"es": "Fitoformes",
+			"pt": "Fitomorfos"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Vidéants",
+			"en": "Voidivions",
+			"es": "Vaciantes",
+			"pt": "Vaziantes"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Démhorribles",
+			"en": "Horridemons",
+			"es": "Demorribles",
+			"pt": "Demhorríveis"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Égarés",
+			"en": "Streyes",
+			"es": "Idos",
+			"pt": "Perdidos"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Ravageurs",
+			"en": "Destroyers",
+			"es": "Devastadores",
+			"pt": "Devastadores"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Steamers",
+			"en": "Foggernauts",
+			"es": "Steamers",
+			"pt": "Steamers"
+		}
+	},
+	{
+		"level": 230,
+		"title": {
+			"fr": "Poisseux abyssaux",
+			"en": "Abyssal Creepers",
+			"es": "Pezgajosos abisales",
+			"pt": "Pescajosos Abissais"
+		}
+	}
+]
